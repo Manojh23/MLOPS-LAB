@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+venv/
+streamlitenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model/artifacts (optional)
+outputs/
