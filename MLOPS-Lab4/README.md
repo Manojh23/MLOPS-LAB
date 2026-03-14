@@ -111,7 +111,7 @@ jupyter notebook
 4. Open:
 
 ```text
-TinyStories_Normal_and_Streaming_LM_Pipeline.ipynb
+Normal_and_Streaming_LLM_Pipeline.ipynb
 ```
 
 5. Run the notebook cells in order.
