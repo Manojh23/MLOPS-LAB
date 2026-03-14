@@ -1,4 +1,4 @@
-# TinyStories Language Modeling Lab
+#Large Language Model Data Pipeline Lab
 
 ## Overview
 
