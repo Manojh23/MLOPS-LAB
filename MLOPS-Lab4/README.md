@@ -12,7 +12,7 @@ These choices make the lab easy to run with a fully open, free, and readily avai
 
 ## Files
 
-- **TinyStories_Normal_and_Streaming_LM_Pipeline.ipynb**  
+- **Normal_and_Streaming_LM_Pipeline.ipynb**  
   A complete lab notebook that shows how to prepare text for causal language modeling in two ways:
   1. a **normal pipeline** using regular dataset loading and preprocessing
   2. a **streaming pipeline** using streamed dataset access for memory-efficient processing
