@@ -4,7 +4,7 @@ This folder contains a **combined notebook** prepared as part of the **Experimen
 
 ## Included files
 - `Combined_Experimental_Tracking_Lab.ipynb` - one combined notebook with outputs already shown below each code cell
-- `outputs/` - saved metrics JSON files and trained model files from the runs
+
 
 ## What is different in this version?
 This version uses a **different dataset** and a **different model** from the original notebooks:
